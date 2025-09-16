@@ -12,6 +12,50 @@ It documents my journey learning **LAN, VLAN, IP addressing, WAN, and router con
 5. **WAN** → Connecting two LANs via serial links and static routing.  
 6. **Router Configurations** → General router setup for multiple scenarios (basic config, DHCP, static routing, OSPF, EIGRP, etc.).
 
+##Repo structure 
+networking-labs/
+│── README.md
+│
+├── basic-home-network/
+│   ├── README.md
+│   ├── basic-home-network.pkt
+│   ├── router-config.txt
+│   └── notes.md
+│
+├── lan/
+│   ├── README.md
+│   ├── lan.pkt
+│   ├── router-config.txt
+│   └── notes.md
+│
+├── vlan/
+│   ├── README.md
+│   ├── vlan.pkt
+│   ├── switch-config.txt
+│   ├── router-config.txt
+│   └── notes.md
+│
+├── ip-addressing/
+│   ├── README.md
+│   ├── ip-addressing.pkt
+│   ├── router-config.txt
+│   └── notes.md
+│
+├── wan/
+│   ├── README.md
+│   ├── wan.pkt
+│   ├── router1-config.txt
+│   ├── router2-config.txt
+│   └── notes.md
+│
+└── router-configurations/
+    ├── README.md
+    ├── basic-config.txt
+    ├── static-routing.txt
+    ├── dhcp-config.txt
+    ├── ospf-config.txt
+    ├── eigrp-config.txt
+    └── notes.md
 
 
 ## 🛠️ Tools Used
