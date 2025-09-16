@@ -13,6 +13,8 @@ It documents my journey learning **LAN, VLAN, IP addressing, WAN, and router con
 6. **Router Configurations** → General router setup for multiple scenarios (basic config, DHCP, static routing, OSPF, EIGRP, etc.).
 
 ##Repo structure 
+
+
 networking-labs/
 │── README.md
 │
