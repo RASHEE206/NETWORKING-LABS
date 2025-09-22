@@ -1,7 +1,7 @@
 # NETWORKING-LABS
 A collection of my networking labs using the Cisco Packet Tracer.
 This repository contains a collection of networking projects and labs built with Cisco Packet Tracer. Overtime, this lab will be updated as i progress in my learning journey. 
-It documents my journey learning **LAN, VLAN, IP addressing, WAN, and router configurations** step by step.
+It documents my journey learning **LAN, VLAN, IP addressing, WAN, and router configurations** as well as other advanced topics step by step.
 
 
 ## 📌 Included Projects
